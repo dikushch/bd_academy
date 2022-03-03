@@ -279,8 +279,8 @@ a {
   height: 40vw;
   position: relative;
   background-color: var(--bg-color);
-  -webkit-mask-image: url(/img/bd_academy_hero.svg);
-          mask-image: url(/img/bd_academy_hero.svg);
+  -webkit-mask-image: url(../img/bd_academy_hero.svg);
+          mask-image: url(../img/bd_academy_hero.svg);
   -webkit-mask-size: cover;
           mask-size: cover;
   -webkit-mask-repeat: no-repeat;
